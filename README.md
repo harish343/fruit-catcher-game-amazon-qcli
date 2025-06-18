@@ -1,7 +1,8 @@
 # Fruit Catcher Game
 
 A simple Python game built with Pygame where you catch falling fruits with a basket.
-https://cdn.hashnode.com/res/hashnode/image/upload/v1750268707192/ff1e927f-4d24-41f8-a43a-adf811fb4ee3.png?auto=compress,format&format=webp
+![Gameplay](https://cdn.hashnode.com/res/hashnode/image/upload/v1750268707192/ff1e927f-4d24-41f8-a43a-adf811fb4ee3.png?auto=compress,format&format=webp)
+
 ## How to Play
 
 - Use **LEFT** and **RIGHT** arrow keys to move your basket
